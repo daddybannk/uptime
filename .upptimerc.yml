@@ -7,6 +7,8 @@ sites:
     url: https://www.sahachai.net
   - name: minecraft server (6365, 6366)
     url: http://sahachai.thddns.net:6366
+  - name: render webhook line notify
+    url: https://node-ts-webhook.onrender.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

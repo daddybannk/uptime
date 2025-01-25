@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 135,
-    "timeDay": 140,
-    "timeWeek": 151,
-    "timeMonth": 138,
+    "time": 136,
+    "timeDay": 135,
+    "timeWeek": 154,
+    "timeMonth": 139,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2024-10-22": 19
@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sahachai.thddns.net.ico",
     "slug": "minecraft-server-6365-6366",
     "status": "down",
-    "uptime": "2.93%",
+    "uptime": "2.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -36,7 +36,8 @@
     "timeMonth": 857,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2025-01-24": 102,
+      "2025-01-25": 97,
+      "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
@@ -399,8 +400,7 @@
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
-      "2024-01-27": 1440,
-      "2024-01-26": 1440
+      "2024-01-27": 1440
     }
   },
   {
@@ -409,16 +409,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/node-ts-webhook.onrender.com.ico",
     "slug": "render-webhook-line-notify",
     "status": "up",
-    "uptime": "97.96%",
+    "uptime": "97.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.60%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "97.96%",
-    "time": 2110,
-    "timeDay": 363,
-    "timeWeek": 675,
-    "timeMonth": 987,
-    "timeYear": 2110,
+    "uptimeYear": "97.98%",
+    "time": 2105,
+    "timeDay": 890,
+    "timeWeek": 714,
+    "timeMonth": 1000,
+    "timeYear": 2105,
     "dailyMinutesDown": {
       "2025-01-22": 23,
       "2025-01-17": 17,

@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 151,
-    "timeWeek": 156,
-    "timeMonth": 143,
+    "timeDay": 146,
+    "timeWeek": 146,
+    "timeMonth": 144,
     "timeYear": 134,
     "dailyMinutesDown": {
       "2024-10-22": 19
@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sahachai.thddns.net.ico",
     "slug": "minecraft-server-6365-6366",
     "status": "down",
-    "uptime": "2.21%",
+    "uptime": "2.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 991,
     "dailyMinutesDown": {
-      "2025-06-09": 657,
+      "2025-06-10": 125,
+      "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
       "2025-06-06": 1440,
@@ -399,8 +400,7 @@
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
-      "2024-06-11": 1440,
-      "2024-06-10": 1440
+      "2024-06-11": 1440
     }
   },
   {
@@ -414,11 +414,11 @@
     "uptimeWeek": "99.15%",
     "uptimeMonth": "98.58%",
     "uptimeYear": "98.94%",
-    "time": 2553,
-    "timeDay": 15271,
-    "timeWeek": 8553,
-    "timeMonth": 4643,
-    "timeYear": 2553,
+    "time": 2549,
+    "timeDay": 7958,
+    "timeWeek": 8514,
+    "timeMonth": 4645,
+    "timeYear": 2549,
     "dailyMinutesDown": {
       "2025-06-09": 44,
       "2025-06-03": 42,

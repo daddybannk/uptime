@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 240,
-    "timeWeek": 153,
+    "timeDay": 142,
+    "timeWeek": 151,
     "timeMonth": 145,
     "timeYear": 135,
     "dailyMinutesDown": {
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 991,
     "dailyMinutesDown": {
-      "2025-06-15": 286,
+      "2025-06-16": 128,
+      "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
@@ -399,8 +400,7 @@
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
-      "2024-06-17": 1440,
-      "2024-06-16": 1417
+      "2024-06-17": 1440
     }
   },
   {
@@ -410,15 +410,15 @@
     "slug": "render-webhook-line-notify",
     "status": "up",
     "uptime": "98.97%",
-    "uptimeDay": "96.98%",
+    "uptimeDay": "98.19%",
     "uptimeWeek": "97.55%",
     "uptimeMonth": "98.24%",
     "uptimeYear": "98.97%",
-    "time": 2586,
-    "timeDay": 363,
-    "timeWeek": 6353,
+    "time": 2582,
+    "timeDay": 396,
+    "timeWeek": 4886,
     "timeMonth": 5330,
-    "timeYear": 2586,
+    "timeYear": 2582,
     "dailyMinutesDown": {
       "2025-06-15": 26,
       "2025-06-14": 116,

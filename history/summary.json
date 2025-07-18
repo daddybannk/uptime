@@ -6,13 +6,13 @@
     "slug": "sahachai-net",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.80%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 141,
-    "timeDay": 97,
-    "timeWeek": 138,
+    "time": 142,
+    "timeDay": 164,
+    "timeWeek": 137,
     "timeMonth": 145,
     "timeYear": 137,
     "dailyMinutesDown": {
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 988,
     "dailyMinutesDown": {
-      "2025-07-17": 296,
+      "2025-07-18": 139,
+      "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
@@ -400,8 +401,7 @@
       "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
-      "2024-07-19": 1440,
-      "2024-07-18": 1440
+      "2024-07-19": 1440
     }
   },
   {
@@ -412,14 +412,14 @@
     "status": "up",
     "uptime": "97.79%",
     "uptimeDay": "98.07%",
-    "uptimeWeek": "98.00%",
+    "uptimeWeek": "98.17%",
     "uptimeMonth": "86.89%",
     "uptimeYear": "97.79%",
-    "time": 2579,
-    "timeDay": 339,
-    "timeWeek": 1845,
-    "timeMonth": 2662,
-    "timeYear": 2579,
+    "time": 2576,
+    "timeDay": 380,
+    "timeWeek": 1789,
+    "timeMonth": 2657,
+    "timeYear": 2576,
     "dailyMinutesDown": {
       "2025-07-17": 28,
       "2025-07-15": 55,

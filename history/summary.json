@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.36%",
+    "uptimeWeek": "99.63%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.94%",
     "time": 147,
     "timeDay": 190,
-    "timeWeek": 414,
+    "timeWeek": 439,
     "timeMonth": 253,
     "timeYear": 154,
     "dailyMinutesDown": {
@@ -35,7 +35,7 @@
     "slug": "minecraft-server-6365-6366",
     "status": "down",
     "uptime": "1.95%",
-    "uptimeDay": "18.54%",
+    "uptimeDay": "5.91%",
     "uptimeWeek": "4.91%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.14%",
@@ -45,7 +45,7 @@
     "timeMonth": 1030,
     "timeYear": 928,
     "dailyMinutesDown": {
-      "2025-09-08": 277,
+      "2025-09-08": 575,
       "2025-09-07": 1099,
       "2025-09-06": 1286,
       "2025-09-05": 1440,
@@ -417,15 +417,15 @@
     "url": "https://node-ts-webhook.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/node-ts-webhook.onrender.com.ico",
     "slug": "render-webhook-line-notify",
-    "status": "up",
-    "uptime": "98.25%",
-    "uptimeDay": "98.73%",
+    "status": "down",
+    "uptime": "98.26%",
+    "uptimeDay": "98.72%",
     "uptimeWeek": "96.96%",
     "uptimeMonth": "97.56%",
-    "uptimeYear": "98.25%",
+    "uptimeYear": "98.26%",
     "time": 2614,
     "timeDay": 631,
-    "timeWeek": 4308,
+    "timeWeek": 4664,
     "timeMonth": 2566,
     "timeYear": 2614,
     "dailyMinutesDown": {
@@ -497,7 +497,7 @@
       "2025-06-11": 30,
       "2025-06-09": 44,
       "2025-06-03": 42,
-      "2025-06-02": 44
+      "2025-06-02": 21
     }
   }
 ]

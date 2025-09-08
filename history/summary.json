@@ -10,10 +10,10 @@
     "uptimeWeek": "99.36%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.94%",
-    "time": 146,
-    "timeDay": 200,
-    "timeWeek": 411,
-    "timeMonth": 251,
+    "time": 147,
+    "timeDay": 190,
+    "timeWeek": 414,
+    "timeMonth": 253,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2025-09-04": 19,
@@ -35,7 +35,7 @@
     "slug": "minecraft-server-6365-6366",
     "status": "down",
     "uptime": "1.95%",
-    "uptimeDay": "28.58%",
+    "uptimeDay": "23.68%",
     "uptimeWeek": "4.91%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.14%",
@@ -45,7 +45,8 @@
     "timeMonth": 1030,
     "timeYear": 928,
     "dailyMinutesDown": {
-      "2025-09-07": 668,
+      "2025-09-08": 116,
+      "2025-09-07": 1099,
       "2025-09-06": 1286,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
@@ -408,8 +409,7 @@
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
-      "2024-09-09": 1440,
-      "2024-09-08": 1440
+      "2024-09-09": 1440
     }
   },
   {
@@ -423,11 +423,11 @@
     "uptimeWeek": "97.14%",
     "uptimeMonth": "97.47%",
     "uptimeYear": "98.25%",
-    "time": 2619,
-    "timeDay": 367,
-    "timeWeek": 4454,
-    "timeMonth": 2565,
-    "timeYear": 2619,
+    "time": 2616,
+    "timeDay": 878,
+    "timeWeek": 4478,
+    "timeMonth": 2571,
+    "timeYear": 2616,
     "dailyMinutesDown": {
       "2025-09-06": 57,
       "2025-09-05": 15,

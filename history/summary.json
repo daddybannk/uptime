@@ -6,15 +6,15 @@
     "slug": "sahachai-net",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.70%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
     "time": 161,
-    "timeDay": 243,
-    "timeWeek": 282,
-    "timeMonth": 274,
-    "timeYear": 172,
+    "timeDay": 359,
+    "timeWeek": 276,
+    "timeMonth": 280,
+    "timeYear": 173,
     "dailyMinutesDown": {
       "2025-10-18": 19,
       "2025-09-17": 18,
@@ -47,7 +47,8 @@
     "timeMonth": 0,
     "timeYear": 967,
     "dailyMinutesDown": {
-      "2025-10-19": 1118,
+      "2025-10-20": 122,
+      "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
@@ -410,8 +411,7 @@
       "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
-      "2024-10-21": 1440,
-      "2024-10-20": 1440
+      "2024-10-21": 1440
     }
   },
   {
@@ -425,11 +425,11 @@
     "uptimeWeek": "95.37%",
     "uptimeMonth": "96.62%",
     "uptimeYear": "99.45%",
-    "time": 2728,
-    "timeDay": 23265,
-    "timeWeek": 3581,
+    "time": 2725,
+    "timeDay": 15616,
+    "timeWeek": 3665,
     "timeMonth": 3201,
-    "timeYear": 2728,
+    "timeYear": 2725,
     "dailyMinutesDown": {
       "2025-10-19": 44,
       "2025-10-18": 58,

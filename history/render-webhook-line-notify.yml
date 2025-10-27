@@ -1,7 +1,7 @@
 url: https://node-ts-webhook.onrender.com
-status: down
-code: 503
-responseTime: 10309
-lastUpdated: 2025-10-27T08:42:55.270Z
+status: up
+code: 200
+responseTime: 279
+lastUpdated: 2025-10-27T09:00:24.508Z
 startTime: 2024-10-29T02:41:12.988Z
 generator: Upptime <https://github.com/upptime/upptime>

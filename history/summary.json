@@ -47,7 +47,7 @@
     "timeMonth": 0,
     "timeYear": 967,
     "dailyMinutesDown": {
-      "2025-11-06": 120,
+      "2025-11-06": 242,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
@@ -419,18 +419,19 @@
     "url": "https://node-ts-webhook.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/node-ts-webhook.onrender.com.ico",
     "slug": "render-webhook-line-notify",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "90.97%",
-    "uptimeMonth": "94.24%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "92.13%",
+    "uptimeMonth": "94.30%",
     "uptimeYear": "99.42%",
     "time": 2979,
     "timeDay": 12086,
-    "timeWeek": 5149,
-    "timeMonth": 4354,
-    "timeYear": 3011,
+    "timeWeek": 5239,
+    "timeMonth": 4376,
+    "timeYear": 2973,
     "dailyMinutesDown": {
+      "2025-11-06": 0,
       "2025-11-05": 20,
       "2025-11-04": 94,
       "2025-11-03": 110,
@@ -468,7 +469,7 @@
       "2025-09-27": 34,
       "2025-09-26": 54,
       "2025-09-25": 58,
-      "2025-09-24": 49
+      "2025-09-24": 32
     }
   }
 ]

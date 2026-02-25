@@ -48,7 +48,7 @@
     "timeMonth": 0,
     "timeYear": 1030,
     "dailyMinutesDown": {
-      "2026-02-25": 117,
+      "2026-02-25": 165,
       "2026-02-24": 1440,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
@@ -422,7 +422,7 @@
     "slug": "render-webhook-line-notify",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "40.42%",
+    "uptimeDay": "43.78%",
     "uptimeWeek": "63.60%",
     "uptimeMonth": "81.61%",
     "uptimeYear": "98.47%",
